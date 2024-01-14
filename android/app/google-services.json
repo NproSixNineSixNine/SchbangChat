@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083345121212",
+    "project_id": "schbangchatapp-8e15f",
+    "storage_bucket": "schbangchatapp-8e15f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083345121212:android:44801a15108d7a80ab85b9",
+        "android_client_info": {
+          "package_name": "com.example.schbang_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb3wGjMm6tHE9KIlkWC9ZnNHRpzsq__fY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
